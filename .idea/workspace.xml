@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e230358-871d-4d7e-bd90-297e5bafbb19" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/.idea/pages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/checkoutpage/checkout_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/sunscreenpage/sun_screen_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/ApiTask/Api_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sportidodukkanpro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artivatic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/basepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/webdriverfactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/webdriverfactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/forgotpassword/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/checkoutpage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/forgotpassword/forgot_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/homepage/home_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/loginpage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/homepage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/loginpage/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/registerpage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/moisturizerspage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/registerpage/register_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/moisturizerspage/moisturizer_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/ForgotPasswordPage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sunscreenpage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/ForgotPasswordPage/forgot_password_tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/LoginPage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/ApiTask/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/LoginPage/login_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Checkout/Checkout_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/RegisterPage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Checkout/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/RegisterPage/register_tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_suite_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_suite_demo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ccTKKoh0OXA6FO3yS7EKw8fz69" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amitm\Desktop\jukinmedia\tests" />
+      <recent name="C:\Users\amitm\Desktop\jukinmedia\pages" />
+      <recent name="C:\Users\amitm\Desktop\sportidodukkanpro\tests\ForgotPasswordPage" />
+      <recent name="C:\Users\amitm\Desktop\sportidodukkanpro\pages" />
+      <recent name="C:\Users\amitm\Desktop\sportidodukkanpro\tests\RegisterPage" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unittests for tests.Checkout.Checkout_tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="artivatic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/Checkout" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.Checkout.Checkout_tests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for tests.Checkout.Checkout_tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e230358-871d-4d7e-bd90-297e5bafbb19" name="Default Changelist" comment="" />
+      <created>1590826816072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590826816072</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1604396707767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604396707767" />
+    <state x="291" y="72" key="SettingsEditor" timestamp="1599211957424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="291" y="72" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599211957424" />
+  </component>
+</project>
